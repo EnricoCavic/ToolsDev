@@ -24,7 +24,7 @@ public class CustomWindow : EditorWindow
     {
         ObjectField();
         Button();
-        EditorGUILayout.Space(10, true);
+        EditorGUILayout.Space(100, true);
         TextArea();
 
     }
